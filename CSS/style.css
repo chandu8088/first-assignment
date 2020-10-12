@@ -1,0 +1,399 @@
+.constandcontainer{
+    line-height:1.8; 
+    position: fixed;
+    }
+.contactspan{
+    margin-left:780px;
+    }
+.xyz{
+    background-image: url("https://www.w3schools.com/w3images/parallax1.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat;
+    width:100%;
+    height:405px;  
+    background-position: center; 
+    margin-top: 0%; 
+    opacity: 0.75;      
+    }
+    span{
+        padding:10px;
+        font-size:20px;
+    }
+    .abc{
+        letter-spacing: 10px;
+        color: #fff ;
+        background-color: #000 ;
+        padding: 12px 24px ;
+        text-align: center ;
+        font-size: 24px ;
+        animation: opac 0.8s;
+        box-sizing: inherit;
+        white-space: nowrap;
+    }
+    .hgf{
+        position: absolute;
+        top: 30%;
+        left: 35%;
+        
+        color: #777;
+        line-height: 1.8;
+    }
+    .content{
+        color: #777;
+        text-align: center; 
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 1.8;
+    }
+    .content1{
+        color: #777;
+        text-align: center; 
+        font-size: 15px;
+        margin:10px;
+        
+        
+    }
+    .xxx{
+        padding-top: 64px ;
+        
+        max-width: 980px;
+        margin-left: auto;
+        margin-right: auto;
+        
+        
+    }
+    .content2{
+        color: #777;
+        font-size: 15px;
+        line-height: 1.8;
+        text-align: justify;
+       
+    }
+    .w1{
+        margin-top:30px ;
+        margin-left: 182px;
+        margin-right: 182px;
+        display:inline;
+        width:948;
+        height: 392;
+    }
+    .w2{
+        margin-left: 182px;
+        text-align: center;
+        width:438px;
+        height:368px;
+        padding: 12px 24px;
+        float: left;
+        
+    }
+    .w3{
+        margin-top: 35px;
+        margin-left: 620px;
+        margin-right: 250px;
+        
+        
+        padding-right:20px;
+    }
+    .w4{
+        opacity: 0.60;
+        border-radius: 4px;
+        max-width: 100%;
+        height: auto;
+        vertical-align: middle;
+    }
+    .w6{
+        margin-left:182px;
+        margin-right:182px;
+        color: #777;
+        line-height: 1.8;
+        font-size: 15px;
+        margin-top: 90px;
+    }
+    .w7{
+        padding-top: 16px;
+        padding-bottom: 16px;
+        text-align: center;
+        font-size: 18px;
+    }
+    .w8{
+        margin-left:182px;
+        margin-right:182px;
+        letter-spacing: 10px;
+        color: #777;
+        line-height: 1.8;
+        font-size: 15px;
+    }
+    .w9{
+        color: #000 !important;
+        background-color: #f1f1f1 !important;
+        line-height: 1.8;
+        font-size: 15px;
+        margin-left:182px;
+        margin-right:182px;
+    }
+    .w10{
+        padding: 4px 8px !important;
+        text-align: center !important;
+        width: 90%;
+        color: #fff !important;
+        background-color: #616161 !important;
+        line-height: 1.8;
+        font-size: 15px;
+    }
+    .w11{
+        padding: 4px 8px !important;
+        text-align: center !important;
+        width: 85%;
+        color: #fff !important;
+        background-color: #616161 !important;
+        line-height: 1.8;
+        font-size: 15px;
+    }
+    .w12{
+        color: #fff !important;
+        background-color: #616161 !important;
+        padding-top: 16px !important;
+        padding-bottom: 16px !important;
+        text-align: center !important;
+        line-height: 1.8;
+        font-size: 15px;
+        margin-top: 60px;
+        height:100px;
+    }
+    .w13{
+        margin-top: 16px !important;
+        margin-bottom: 16px !important;
+        width: 24.99999%;
+        float: left;
+        color: #fff !important;
+        text-align: center !important;
+        line-height: 1.8;
+        font-size: 15px;
+    }
+    .w14{
+        font-size: 24px !important;
+        color: #fff !important;
+        text-align: center !important;
+        line-height: 1.8;
+    }
+    .backimag{
+        background-image: url("https://www.w3schools.com/w3images/parallax2.jpg");
+        height: 400px;
+        background-size: cover; 
+        background-repeat: no-repeat;
+        width:100%;
+        background-position: center; 
+        opacity: 0.75;
+        background-attachment: scroll;
+        position: relative;
+    }
+    .textbox{
+        position:absolute;
+        left:50%;
+        top:50%;
+        transform: translate(-50%,-50%);
+        line-height: 1.8;
+        font-size: 15px;
+    }
+    .letterbox{
+        letter-spacing: 10px;
+        color: #fff !important;
+        font-size: 36px !important;
+        line-height: 1.8;
+    }
+    .photogal{
+        padding-top: 64px !important;
+        padding-bottom: 64px !important;
+        padding: 0.01em 16px;
+        max-width: 980px;
+        margin-left: auto;
+        margin-right: auto;
+        line-height: 1.8;
+        color: #777;
+    }
+    .headertext{
+        text-align: center !important;
+        font-weight: 400;
+        margin: 10px 0;
+        font-size: 24px;
+    }
+    .paratext{
+        text-align: center !important;
+        font-size: 15px;
+    }
+    .imagespadding{
+        text-align: center !important;
+        padding: 0 8px;
+        color: #777;
+        line-height: 1.8;
+    }
+    .firstimage{
+        padding:  8px;
+        width: 23.32%;
+        float: left;
+        text-align: center !important;
+    }
+    .hover{
+        width: 100%;
+        cursor: pointer;
+        vertical-align: middle;
+        border-style: none;
+    }
+    .w3-button{
+        margin-top: 64px;
+        color: #000 !important;
+        background-color: #f1f1f1 !important;
+        padding: 12px 24px !important;
+        vertical-align: middle;
+        display: inline-block;
+        text-align: center;
+        margin-left: 42%;
+        font-size: 16px;
+    }
+    .backdiv{
+        background-attachment: scroll;
+        min-height: 400px;
+        background-image: url("https://www.w3schools.com/w3images/parallax3.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 0.75;
+        position: relative;
+
+    }
+    .divmiddle{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        color: #777;
+        line-height: 1.8;
+    }
+    .textfield{
+        letter-spacing: 10px;
+        color: #fff !important;
+        font-size: 36px !important;
+        line-height: 1.8;
+    }
+    .class2{
+        padding-top: 64px !important;
+        padding-bottom: 64px !important;
+        padding: 0.01em 16px;
+        max-width: 980px;
+        margin-left: auto;
+        margin-right: auto;
+        color: #777;
+        line-height: 1.8;
+        font-size: 15px;
+    }
+    .bottompara{
+        padding-top: 32px !important;
+        padding-bottom: 32px !important;
+        margin-top: 16px !important;
+        margin-bottom: 16px !important;
+        color: #777;
+        line-height: 1.8;
+    }
+    .lastcontainer{
+        width: 33.33333%;
+        padding: 0.01em 16px;
+        float: left;
+
+    }
+    .formtext{
+        width: 60.111%;
+        margin-top: 16px;
+        margin-bottom: 16px;
+        padding: 0.01em 16px;
+        float: left;
+    }
+    .innertext1{
+        margin-bottom: 16px !important;
+        font-size: 18px !important;
+        color: #777;
+        line-height: 1.8;
+       
+
+    }
+    .mapaddress{
+        width: 1.28571429em;
+        text-align: center;
+        display: inline-block;
+        text-rendering: auto;
+        margin-right: 16px !important;
+        font-size: 24px !important;
+    }
+    .formelement{
+        margin: 0 -16px 8px -16px;
+        padding: 0 8px;
+    }
+    .anoform{
+        padding: 0 8px;
+        width: 47.30%;
+        float: left;
+        box-sizing: inherit;
+    }
+    .another{
+        border: 1px solid #ccc !important;
+        padding: 8px;
+        display: block;
+        width: 100%;
+        font: inherit;
+    }
+    .another1{
+        border: 1px solid #ccc !important;
+        padding: 8px;
+        margin-top: 8px;
+        width: 100%;
+        font: inherit;
+    }
+    .textbutton{
+        color: #fff !important;
+        background-color: #000 !important;
+        float: right !important;
+        margin-top: 16px !important;
+        margin-bottom: 16px !important;
+        padding: 8px 16px;
+        overflow: hidden;
+        text-align: center;
+        font: inherit;
+        box-sizing: inherit;
+    }
+    .footertext{
+        color: #fff !important;
+        background-color: #000 !important;
+        padding-top: 64px !important;
+        padding-bottom: 64px !important;
+        text-align: center !important;
+        opacity: 0.60;
+        display: block;
+        box-sizing: inherit;
+        line-height: 1.8;
+        margin-top: 340px;
+
+    }
+    .ancletext{
+        color: #000 !important;
+        background-color: #f1f1f1 !important;
+        border: none;
+        display: inline-block;
+        padding: 8px 16px;
+        vertical-align: middle;
+        text-decoration: none;
+    }
+    .taging{
+        font-size: inherit;
+        text-rendering: auto;
+        margin-right: 16px !important;
+        box-sizing: inherit;
+    }
+    .stickers{
+        margin-top: 16px !important;
+        margin-bottom: 16px !important;
+        font-size: 24px !important;
+        box-sizing: inherit;
+        color: #fff !important;
+    }
+    .Abooutfont{
+        font-size: 18px;
+    }
